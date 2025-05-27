@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|solutionrelative:guest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|solutionrelative:member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\order.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|solutionrelative:order.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5B9A075-432C-40A8-9CF5-7D1BB787A0C6}|ganghee.vcxproj|solutionrelative:product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "member.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\member.h",
+              "RelativeDocumentMoniker": "member.h",
+              "ToolTip": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\member.h",
+              "RelativeToolTip": "member.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T06:25:20.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "order.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\order.h",
+              "RelativeDocumentMoniker": "order.h",
+              "ToolTip": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\order.h",
+              "RelativeToolTip": "order.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T06:26:54.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\product.h",
+              "RelativeDocumentMoniker": "product.h",
+              "ToolTip": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\product.h",
+              "RelativeToolTip": "product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T06:26:29.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "guest.h",
+              "DocumentMoniker": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\guest.h",
+              "RelativeDocumentMoniker": "guest.h",
+              "ToolTip": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\guest.h",
+              "RelativeToolTip": "guest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T06:26:01.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\kosa\\Desktop\\qwe\\ganghee\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T05:53:49.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
